@@ -1,1 +1,1 @@
-# Data-Analysis-attempt-with-Pandas-in-Python
+# This is a set of programs demonstrating basic functionalities of Pandas library in python for data analysis
